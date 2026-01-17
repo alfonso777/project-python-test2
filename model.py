@@ -1,4 +1,7 @@
 import os
+import logging as log
+
+log.basicConfig(level=log.INFO) # Set the threshold to INFO
 
 def double(input1: int) -> int:
     """
@@ -14,4 +17,4 @@ def double(input1: int) -> int:
 if __name__ == "__main__":
     current_folder = os.listdir()
     #result = double(13)
-    print(f"Current folder: {current_folder}")
+    log.info(f"Current folder: {current_folder}")
