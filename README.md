@@ -6,4 +6,6 @@ Python Project template test
  blablab 
 ## Subtitle 2
 - Item 1
-- *Item 2*: _jaja_
+- *Item 2*: nothing
+
+
