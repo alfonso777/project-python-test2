@@ -1,2 +1,5 @@
 pytest
 Flask
+mlfow
+scikit-learn
+pandas
