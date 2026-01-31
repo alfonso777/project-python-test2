@@ -1,0 +1,5 @@
+outs:
+- md5: 29548a42c744c03f2284cf584fb3d7f8
+  size: 2689
+  hash: md5
+  path: my_model.zip

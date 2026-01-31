@@ -210,3 +210,4 @@ __marimo__/
 
 ## to exclude credentials
 .env
+/my_model.zip
