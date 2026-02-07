@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage1
+['remote "localstorage1"']
+    url = ~/temp5/dvc_repo

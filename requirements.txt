@@ -1,5 +1,9 @@
 pytest
 Flask
-mlfow
+mlflow
 scikit-learn
 pandas
+xgboost
+joblib
+matplotlib
+shap

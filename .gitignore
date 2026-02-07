@@ -210,4 +210,7 @@ __marimo__/
 
 ## to exclude credentials
 .env
+myenv
 /my_model.zip
+mlruns
+mlflow.db
